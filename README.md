@@ -46,9 +46,9 @@ Optionally, display a confusion matrix or sample predictions.
 
 ## PROGRAM
 
-### Name: JAIGANESH S
+### Name: KISHORE N
 
-### Register Number: 212222240037
+### Register Number: 212222240049
 ```
 !pip uninstall -y torch torchvision torchaudio
 !pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
